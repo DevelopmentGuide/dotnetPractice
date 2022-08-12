@@ -1,0 +1,15 @@
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\bin\Debug\net6.0\BuilderDP.exe
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\bin\Debug\net6.0\BuilderDP.deps.json
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\bin\Debug\net6.0\BuilderDP.runtimeconfig.json
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\bin\Debug\net6.0\BuilderDP.dll
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\bin\Debug\net6.0\BuilderDP.pdb
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\BuilderDP.csproj.AssemblyReference.cache
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\BuilderDP.GeneratedMSBuildEditorConfig.editorconfig
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\BuilderDP.AssemblyInfoInputs.cache
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\BuilderDP.AssemblyInfo.cs
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\BuilderDP.csproj.CoreCompileInputs.cache
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\BuilderDP.dll
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\refint\BuilderDP.dll
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\BuilderDP.pdb
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\BuilderDP.genruntimeconfig.cache
+E:\f\Stage 3b - Design Structures And Pattern\day3.1\BuilderDP\obj\Debug\net6.0\ref\BuilderDP.dll

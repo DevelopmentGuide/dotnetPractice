@@ -1,0 +1,260 @@
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.exe
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.exe
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\EmployeeDetails.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.exe
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day05\EmployeeDetails - WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Update.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.exe
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Update.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\cSharpCRUD\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.exe
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Update.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.dll
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\CRUDs\cSharpCRUD\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\appsettings.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.exe
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Products\Update.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\cSharpCRUD\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll

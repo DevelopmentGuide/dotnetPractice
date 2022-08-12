@@ -1,0 +1,15 @@
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\bin\Debug\net6.0\base.exe
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\bin\Debug\net6.0\base.deps.json
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\bin\Debug\net6.0\base.runtimeconfig.json
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\bin\Debug\net6.0\base.dll
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\bin\Debug\net6.0\base.pdb
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\base.csproj.AssemblyReference.cache
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\base.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\base.AssemblyInfoInputs.cache
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\base.AssemblyInfo.cs
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\base.csproj.CoreCompileInputs.cache
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\base.dll
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\refint\base.dll
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\base.pdb
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\base.genruntimeconfig.cache
+D:\GitHub\base\Cognizant Handson\Stage 3c - Data Structures and Algorithms\base\obj\Debug\net6.0\ref\base.dll

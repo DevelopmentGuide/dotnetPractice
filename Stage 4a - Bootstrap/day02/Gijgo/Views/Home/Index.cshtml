@@ -1,0 +1,109 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .hover {
+        color: var(--white);
+        background-color: var(--accent);
+    }
+
+    .element {
+        margin: 0px !important;
+        height: 100px !important;
+        cursor: pointer !important;
+    }
+
+    .element:active {
+        cursor: move !important;
+        box-shadow: var(--shadowsmall);
+        backdrop-filter: blur(10px);
+    }
+</style>
+
+
+
+<body class="noSelect">
+    <div class="mainSection">
+
+        <div class="subSection">
+            <h1>timepicker</h1>
+            <input id="timepicker" width="200" />
+        </div>
+
+        <div class="subSection">
+            <h1>datepicker</h1>
+            <input id="datepicker" width="200" />
+        </div>
+
+        <div class="subSection">
+            <h1>slider</h1>
+            <input id="slider" width="200" />
+            Value: <span id="value"></span>
+        </div>
+
+        <div class="subSection">
+            <div id="dialog" title="jQuery Dialog" width="400">
+                <div data-role="body">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et
+                    dolore magna aliqua.
+                </div>
+                <div data-role="footer">
+                    <button class="gj-button-md" onclick="dialog.close()">OK</button>
+                    <button class="gj-button-md" data-role="close">Cancel</button>
+                </div>
+            </div>
+
+            <script type="text/javascript">
+                var dialog;
+                $(document).ready(function () {
+                    dialog = $("#dialog").dialog({
+                        resizable: true
+                    });
+                });
+            </script>
+
+        </div>
+
+        <div class="subSection">
+            <h1>checkbox</h1>
+            <label for="chkb-unchecked">Unchecked:</label> <input type="checkbox" id="chkb-unchecked" /> &nbsp; &nbsp;
+        </div>
+
+        <div id="droppable" class="droppable subSection">
+            <h1>Drop</h1>
+        </div>
+
+        <div class="element subSection">
+            <h1>Drag</h1>
+        </div>
+
+    </div>
+
+
+    <script>
+        $('.element').draggable();
+        $('#droppable').droppable({ hoverClass: 'hover' });
+    </script>
+
+    <label for="chkb-unchecked">Unchecked:</label> <input type="checkbox" id="chkb-unchecked" /> &nbsp; &nbsp;
+
+    <script>
+        $('#timepicker').timepicker();
+
+        $('#datepicker').datepicker();
+
+        $('#slider').slider({
+            slide: function (e, value) {
+                document.getElementById('value').innerText = value;
+            }
+        });
+
+        $('#chkb-unchecked').checkbox();
+        $('#chkb-checked').checkbox().state('checked');
+        $('#chkb-indeterminate').checkbox().state('indeterminate');
+        $('#chkb-disabled').checkbox().state('checked').prop('disabled', true);
+
+    </script>
+</body>

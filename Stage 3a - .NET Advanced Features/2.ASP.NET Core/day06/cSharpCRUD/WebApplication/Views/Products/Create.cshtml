@@ -1,0 +1,21 @@
+﻿@model Product
+
+<form asp-action="Create" asp-controller="Products" method="post" class="contactForm">
+    <div class="d-flex justify-content-end">
+        @Html.ActionLink("Back", "Index", new object { }, new { @class = "btn btn-outline-primary btn-lg"})
+    </div>
+    <fieldset>
+        <div>
+            <input placeholder="Id" asp-for="Id" class="field" />
+        </div>
+        <div>
+            <input placeholder="Name" asp-for="Name" class="field" />
+        </div>
+        <div>
+            <input placeholder="Price" asp-for="Price" class="field" />
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary">Create</button>
+        </div>
+    </fieldset>
+</form>

@@ -1,0 +1,24 @@
+﻿@model Product
+
+<form asp-action="Delete" asp-controller="Products" method="post" class="contactForm">
+    <div class="d-flex justify-content-end">
+        @Html.ActionLink("Back", "Index", new object { }, new { @class = "btn btn-outline-primary btn-lg"})
+    </div>
+    <fieldset>
+        <div>
+            <label asp-for="Id"></label>
+            <input asp-for="Id" readonly class="field" />
+        </div>
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" readonly class="field" />
+        </div>
+        <div>
+            <label asp-for="Price"></label>
+            <input asp-for="Price" readonly class="field" />
+        </div>
+        <div>
+            <button type="submit" class="btn btn-danger">Delete</button>
+        </div>
+    </fieldset>
+</form>

@@ -1,0 +1,78 @@
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\appsettings.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).exe
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).deps.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).runtimeconfig.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).runtimeconfig.dev.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).Views.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).Views.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\scopedcss\bundle\Razor(ASP.NET CORE WebApp).styles.css
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\staticwebassets\Razor(ASP.NET CORE WebApp).StaticWebAssets.Manifest.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).TagHelpers.input.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).TagHelpers.output.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorCoreGenerate.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorTargetAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorTargetAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).Views.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\refint\Razor(ASP.NET CORE WebApp).dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\ref\Razor(ASP.NET CORE WebApp).dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).csproj.CopyComplete
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\appsettings.Development.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\appsettings.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).exe
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).deps.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).runtimeconfig.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).runtimeconfig.dev.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).Views.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\bin\Debug\net5.0\Razor(ASP.NET CORE WebApp).Views.pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).csproj.AssemblyReference.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).AssemblyInfoInputs.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).AssemblyInfo.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).csproj.CoreCompileInputs.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).MvcApplicationPartsAssemblyInfo.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorAssemblyInfo.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorAssemblyInfo.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\scopedcss\bundle\Razor(ASP.NET CORE WebApp).styles.css
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\staticwebassets\Razor(ASP.NET CORE WebApp).StaticWebAssets.Manifest.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).TagHelpers.input.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).TagHelpers.output.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorCoreGenerate.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorTargetAssemblyInfo.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).RazorTargetAssemblyInfo.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).Views.pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\refint\Razor(ASP.NET CORE WebApp).dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).genruntimeconfig.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\ref\Razor(ASP.NET CORE WebApp).dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day05\Razor(ASP.NET CORE WebApp)\Razor(ASP.NET CORE WebApp)\obj\Debug\net5.0\Razor(ASP.NET CORE WebApp).csproj.CopyComplete

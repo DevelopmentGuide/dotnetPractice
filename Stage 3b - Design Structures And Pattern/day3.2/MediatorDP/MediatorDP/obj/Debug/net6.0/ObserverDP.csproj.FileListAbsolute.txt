@@ -1,0 +1,15 @@
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\bin\Debug\net6.0\ObserverDP.exe
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\bin\Debug\net6.0\ObserverDP.deps.json
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\bin\Debug\net6.0\ObserverDP.runtimeconfig.json
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\bin\Debug\net6.0\ObserverDP.dll
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\bin\Debug\net6.0\ObserverDP.pdb
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ObserverDP.csproj.AssemblyReference.cache
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ObserverDP.GeneratedMSBuildEditorConfig.editorconfig
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ObserverDP.AssemblyInfoInputs.cache
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ObserverDP.AssemblyInfo.cs
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ObserverDP.csproj.CoreCompileInputs.cache
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ObserverDP.dll
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\refint\ObserverDP.dll
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ObserverDP.pdb
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ObserverDP.genruntimeconfig.cache
+E:\f\Stage 3b - Design Structures And Pattern\day3.3\ObserverDP\obj\Debug\net6.0\ref\ObserverDP.dll

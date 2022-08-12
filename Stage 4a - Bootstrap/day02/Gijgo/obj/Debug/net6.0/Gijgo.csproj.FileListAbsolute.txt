@@ -1,0 +1,78 @@
+C:\Users\windows\Documents\GitHub\Gijgo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\windows\Documents\GitHub\Gijgo\bin\Debug\net6.0\appsettings.json
+C:\Users\windows\Documents\GitHub\Gijgo\bin\Debug\net6.0\Gijgo.staticwebassets.runtime.json
+C:\Users\windows\Documents\GitHub\Gijgo\bin\Debug\net6.0\Gijgo.exe
+C:\Users\windows\Documents\GitHub\Gijgo\bin\Debug\net6.0\Gijgo.deps.json
+C:\Users\windows\Documents\GitHub\Gijgo\bin\Debug\net6.0\Gijgo.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\Gijgo\bin\Debug\net6.0\Gijgo.dll
+C:\Users\windows\Documents\GitHub\Gijgo\bin\Debug\net6.0\Gijgo.pdb
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.RazorAssemblyInfo.cache
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.RazorAssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\scopedcss\bundle\Gijgo.styles.css
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\scopedcss\projectbundle\Gijgo.bundle.scp.css
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.dll
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\refint\Gijgo.dll
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.pdb
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\Gijgo.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\Gijgo\obj\Debug\net6.0\ref\Gijgo.dll
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\appsettings.Development.json
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\appsettings.json
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.staticwebassets.runtime.json
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.exe
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.deps.json
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.runtimeconfig.json
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.dll
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.pdb
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.csproj.AssemblyReference.cache
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.AssemblyInfoInputs.cache
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.AssemblyInfo.cs
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.csproj.CoreCompileInputs.cache
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.MvcApplicationPartsAssemblyInfo.cache
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.RazorAssemblyInfo.cache
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.RazorAssemblyInfo.cs
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\scopedcss\bundle\Gijgo.styles.css
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\scopedcss\projectbundle\Gijgo.bundle.scp.css
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.dll
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\refint\Gijgo.dll
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.pdb
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.genruntimeconfig.cache
+E:\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\ref\Gijgo.dll
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\appsettings.json
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.staticwebassets.runtime.json
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.exe
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.deps.json
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.runtimeconfig.json
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.dll
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\bin\Debug\net6.0\Gijgo.pdb
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.csproj.AssemblyReference.cache
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.AssemblyInfoInputs.cache
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.AssemblyInfo.cs
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.csproj.CoreCompileInputs.cache
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.RazorAssemblyInfo.cache
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.RazorAssemblyInfo.cs
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\scopedcss\bundle\Gijgo.styles.css
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\scopedcss\projectbundle\Gijgo.bundle.scp.css
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.dll
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\refint\Gijgo.dll
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.pdb
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\Gijgo.genruntimeconfig.cache
+D:\GitHub\base\Cognizant Handson\Stage 4a - Bootstrap\day02\Gijgo\obj\Debug\net6.0\ref\Gijgo.dll

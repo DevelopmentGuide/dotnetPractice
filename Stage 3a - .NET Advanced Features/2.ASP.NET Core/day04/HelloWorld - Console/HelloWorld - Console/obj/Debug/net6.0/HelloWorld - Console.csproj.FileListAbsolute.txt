@@ -1,0 +1,45 @@
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.exe
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.deps.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.runtimeconfig.json
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.AssemblyInfo.cs
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\refint\HelloWorld - Console.dll
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.pdb
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.genruntimeconfig.cache
+C:\Users\windows\Documents\GitHub\Cognizant Handson\day01\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\ref\HelloWorld - Console.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.exe
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.deps.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.runtimeconfig.json
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.csproj.AssemblyReference.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.AssemblyInfoInputs.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.AssemblyInfo.cs
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.csproj.CoreCompileInputs.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\refint\HelloWorld - Console.dll
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.pdb
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.genruntimeconfig.cache
+E:\Cognizant Handson\Stage 3a - .NET Advanced Features\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\ref\HelloWorld - Console.dll
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.exe
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.deps.json
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.runtimeconfig.json
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.dll
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\bin\Debug\net6.0\HelloWorld - Console.pdb
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.csproj.AssemblyReference.cache
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.AssemblyInfoInputs.cache
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.AssemblyInfo.cs
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.csproj.CoreCompileInputs.cache
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.dll
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\refint\HelloWorld - Console.dll
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.pdb
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\HelloWorld - Console.genruntimeconfig.cache
+D:\GitHub\base\Cognizant Handson\Stage 3a - .NET Advanced Features\2.ASP.NET Core\day04\HelloWorld - Console\HelloWorld - Console\obj\Debug\net6.0\ref\HelloWorld - Console.dll
