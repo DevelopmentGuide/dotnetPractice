@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - JWT</title>
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
+    <link rel="stylesheet" href="~/css/site.css" />
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <!-- Online Content -->
+    <link rel="icon" href="https://avatars.githubusercontent.com/u/108847584?s=200&v=4">
+    <link rel="stylesheet" href="https://cdn.statically.io/gh/dependabot-pr/Static-Files/main/style.css">
+    <link rel="stylesheet" href="https://cdn.statically.io/gh/dependabot-pr/Static-Files/main/animation.css">
+</head>
+
+<body>
+    <header>
+        <nav id='customNav' class='navbar navbar-expand-sm bg-light fixed-top'>
+            <div class='container-fluid'>
+                <ul class='navbar-nav justify-content-start'>
+                    <li>
+                        @* <a asp-controller="Home" asp-action="Index">
+                            <img alt='a' id='hrtLogo' src='https://avatars.githubusercontent.com/u/108847584?s=200&v=4'
+                                draggable='false' />
+                        </a> *@
+                    </li>
+                </ul>
+                <ul class='navbar-nav justify-content-end'>
+                    <li class="barItem ">
+                        <a asp-controller="Products" asp-action="Index" class="nav-link">
+                            Products
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container pushDown100">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+<script src="https://cdn.statically.io/gh/dependabot-pr/Static-Files/main/my-scripts.js"></script>
+
+<!-- bootstrap -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- awesomeFonts -->
+<script src="https://kit.fontawesome.com/c5266611a7.js" crossorigin="anonymous"></script>
+
+</html>
